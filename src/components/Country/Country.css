@@ -1,0 +1,12 @@
+.flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 20px;
+  background: rgb(155, 103, 103);
+  border-radius: 20px;
+}
+.country-visited {
+  background: #81bb86;
+}

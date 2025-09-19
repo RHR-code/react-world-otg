@@ -62,19 +62,3 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
-
-.column {
-  display: grid;
-  gap: 20px;
-  grid-template-columns: repeat(3, 1fr);
-}
-
-.flex {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-  height: 450px;
-  background: rgb(155, 103, 103);
-  border-radius: 20px;
-}
